@@ -9,4 +9,5 @@ A simple text based hangman game made in Python.
 This project uses the random module to generate words.
 
 To run the game, simply type "python hangm.py" in a terminal. 
+
 Make sure you are in the right directory by using "cd path".
