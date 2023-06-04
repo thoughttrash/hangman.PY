@@ -1,0 +1,49 @@
+{
+    "themes": [
+        {
+            "fruits": [
+                "mango",
+                "pineapple",
+                "watermelon",
+                "strawberry",
+                "kiwi",
+                "banana",
+                "apple",
+                "grapefruit",
+                "blueberry",
+                "pear",
+                "raspberry",
+                "papaya",
+                "orange",
+                "avocado",
+                "lemon",
+                "cherry",
+                "coconut",
+                "plum",
+                "fig",
+                "peach"
+            ],
+            "programming": [
+                "algorithm",
+                "variable",
+                "debugging",
+                "framework",
+                "database",
+                "compiler",
+                "javascript",
+                "encryption",
+                "interface",
+                "prototype",
+                "boolean",
+                "exception",
+                "recursion",
+                "namespace",
+                "dependency",
+                "automation",
+                "bytecode",
+                "middleware",
+                "polymorphism"
+            ]
+        }
+    ]
+}
