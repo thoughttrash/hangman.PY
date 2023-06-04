@@ -7,7 +7,7 @@ which manages the game flow, word selection, player input, and scoring.
 
 Usage:
 ------
-Create an instance of the `Hangman` class and call the `loadmenu()` method 
+Create an instance of the `Hangman` class and call the `loadmenu()` method
 to start the game.
 
 Example:
@@ -72,7 +72,7 @@ class Hangman:
     def display(self, name):
         """
         Display an ASCII art based on the given name.
-        
+
         Parameters:
         -----------
         name : str
@@ -85,7 +85,7 @@ class Hangman:
     def loadmenu(self):
         """
         Load the game menu and handle user commands.
-        
+
         This method displays the game menu with ASCII arts, prompts the user
         for a command, and handles the command accordingly. The available
         commands are 'play', 'tips', and 'quit'.
@@ -127,10 +127,10 @@ class Hangman:
     def play(self):
         """
         Play the Hangman game.
-        
-        This method starts the main game loop where the player guesses letters 
+
+        This method starts the main game loop where the player guesses letters
         to reveal the hidden word.
-        It checks the player's input, updates the game state, and handles 
+        It checks the player's input, updates the game state, and handles
         win/lose conditions.
         """
         self.init_game()

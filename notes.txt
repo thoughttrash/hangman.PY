@@ -1,1 +1,12 @@
-Advice: 
+words.json
+
+This JSON file contains a collection of words grouped under different themes. 
+It is used by the Hangman game to provide word options for players to guess.
+
+arts.json
+keys: 0 (not death) to 7 (hangman's death). 
+"hangman": ASCII "HANGMAN" displayed at the start.
+"menu": ASCII of game menu.
+"line": ASCII of a line separator
+
+
