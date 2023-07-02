@@ -4,7 +4,6 @@
 
 A simple text based hangman game made in Python. 
 
-**I am new to coding so any advice would be helpful.**
 
 This project uses the random module to generate words.
 
